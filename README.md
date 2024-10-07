@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Opennawi
-- 👀 Estamos interesados en mejorar / convertir tecnológicamente aquellas empresas que aún presentas actividades manuales.
+- 👀 Estamos interesados en mejorar / convertir tecnológicamente aquellas empresas que aún presentan actividades manuales.
 - 🌱 Aprendemos y dejamos nuestro grano de sabiduría con nuestros blogs, totalmente abiertos a retroactividad.
 - 💞️ Nos encanta ser parte de la comunidad open source
 - 📫 Pueden escribirnos a devops@opennawi.com
